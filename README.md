@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @vkilgore. My name is Ruby Huynh. 
-- 📫 How to reach me: Hash#3953 on Discord
+- 👋 Hi, my name is Ruby Huynh. 
 
 <!---
 vkilgore/vkilgore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
